@@ -27,7 +27,7 @@ Materiais usados:
 -Resistores
 -LCD 16X4 (I2C)
 -Potenciometro
--Como no tinkerCad não temos um medidor de umidade do ar, substituimos por um potenciometro
+-Como no tinkercad não temos um medidor de umidade do ar, substituimos por um potenciometro
 -Fotorresistor
 Para medir a luminosidade
 -Sensor de temperatura(TMP36)
